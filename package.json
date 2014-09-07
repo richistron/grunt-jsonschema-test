@@ -1,0 +1,8 @@
+{
+  "name": "jsonschema-test",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-jsonschema": "0.0.3"
+  }
+}
